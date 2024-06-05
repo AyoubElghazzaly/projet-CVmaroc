@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="your_ads_he">Vos annonces ici</string>
+    <string name="contact_inf2">Informations de contact\n</string>
+    <string name="work_experi">Expérience professionnelle\n</string>
+    <string name="education_d">Détails de l\'éducation\n</string>
+    <string name="other_infor">Autres informations</string>
+    <string name="save_downlo">Enregistrer\nTélécharger</string>
+    <string name="add_photo_o">Ajouter une photo\n(facultatif)</string>
+    <string name="first_name">Prénom\n</string>
+    <string name="some_id">*</string>
+    <string name="surname">Nom\n</string>
+    <string name="email_addre">Adresse e-mail</string>
+    <string name="phone">Numéro de téléphone</string>
+    <string name="adress">Adresse principale</string>
+    <string name="zip">National Cart ID</string>
+    <string name="city">Ville/Pays</string>
+    <string name="other_detai">Autres détails</string>
+    <string name="work_experi4">Expérience professionnelle</string>
+    <string name="education_text">Détails de l\'éducation</string>
+    <string name="employer">Employeur</string>
+    <string name="school">École</string>
+    <string name="start_date">Date de début</string>
+    <string name="job_title">Titre du poste</string>
+    <string name="location">Emplacement</string>
+    <string name="description">Description</string>
+    <string name="describe_yo">Décrivez vos tâches, responsabilités et toutes compétences liées à votre expérience professionnelle</string>
+    <string name="create_new_">Créer un nouveau CV</string>
+    <string name="subject">Sujet</string>
+    <string name="describe_educate">Ajoutez une description de votre cours pour expliquer ce qu\'est le cours aux employeurs potentiels.</string>
+    <string name="apk_name">Tiroir de navigation</string>
+    <string name="open_nav">Ouvrir le tiroir de navigation</string>
+    <string name="clos_nav">Fermer le tiroir de navigation</string>
+    <string name="other_infor1">Autres informations</string>
+    <string name="about_me">À propos de moi</string>
+    <string name="language">Langue</string>
+    <string name="level">Niveau</string>
+    <string name="company_nam">Nom de l\'entreprise</string>
+    <string name="phone_numbe">Numéro de téléphone</string>
+    <string name="contact_per">Personne de contact</string>
+    <string name="email_addre2">Adresse e-mail</string>
+    <string name="enr">Voulez-vous enregistrer les modifications?</string>
+    <string name="textintro1">Cette application contribue à répondre aux besoins des utilisateurs afin de créer un profil de CV et si facile</string>
+    <string name="welcom_to">Bienvenue à</string>
+    <string name="myservice">Service CV.maroc</string>
+    <string name="bestservice">Meilleur Service Pour Créer Un Cv</string>
+    <string name="demiabout">Nous vous proposons un service de profil CV, donc un simple effort de votre part et consiste à saisir vos informations et à nous laisser le reste .</string>
+    <string name="started">Commençons</string>
+    <string name="choose_a_template">Choisissez un Modèle</string>
+    <string name="personal_details">Données Personnelles</string>
+    <string name="educational_details">Détails Pédagogiques</string>
+    <string name="experience">Expérience</string>
+    <string name="others">Autres</string>
+    <string name="view_cv">Vue CV</string>
+    <string name="Home">َAccueil</string>
+    <string name="RemouvADS">VIP</string>
+    <string name="share">Partager</string>
+    <string name="about">"Bienvenue sur CV maroc, un outil dédié à simplifier le processus de création de CV professionnels. Notre application permet aux utilisateurs de saisir facilement leurs informations personnelles et professionnelles, qui sont ensuite formatées dynamiquement dans un modèle de CV soigné. En quelques clics, les utilisateurs peuvent générer une version PDF de leur CV, prête à être partagée avec des employeurs potentiels.
+
+Fonctionnalités clés:
+- Interface conviviale: Un design intuitif et facile à naviguer pour une création de profil sans effort.
+- Modèles personnalisables: Choisissez parmi une variété de modèles professionnels pour représenter au mieux vos compétences et votre expérience.
+- Génération instantanée de PDF: Créez un PDF de haute qualité de votre CV en un seul clic.
+- Gestion sécurisée des données: Vos informations personnelles sont stockées et gérées en toute sécurité, garantissant confidentialité et protection.
+
+Nous nous engageons à fournir un outil fiable et efficace pour vous aider à atteindre vos objectifs de carrière. Que vous soyez un professionnel expérimenté ou que vous débutiez votre recherche d'emploi, CV maroc est là pour vous accompagner à chaque étape.
+
+Contactez-nous:
+Pour des commentaires, un support ou toute question, veuillez nous contacter à <i>ayoubelghazzaly@gmail.com</i>.
+
+Merci de choisir CV maroc. Nous vous souhaitons du succès dans vos démarches professionnelles."</string>
+    <string name="close">Fermer</string>
+    <string name="aboutnv">Au sujet</string>
+    <string name="arabic">Arabe</string>
+    <string name="english">Anglais</string>
+    <string name="french">Français</string>
+    <string name="select_langue">Sélectionner Langue</string>
+
+</resources>

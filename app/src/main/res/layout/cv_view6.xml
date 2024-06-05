@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:fontFamily="@font/opensance"
+        android:gravity="center"
+        android:text="Congratulation"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/layout_cv"
+        android:layout_width="600dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_download"
+        android:layout_below="@+id/tv"
+        android:elevation="10dp"
+        android:orientation="vertical"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="-2dp"
+        android:layout_marginBottom="28dp"
+        android:background="@drawable/cv6_view"
+        tools:layout_editor_absoluteX="5dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="174dp"
+                android:layout_height="68dp"
+                android:layout_marginTop="38dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginEnd="3dp"
+                android:text="Name Surname"
+                android:textColor="@color/black"
+                android:textSize="28dp" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="30dp">
+
+            <TextView
+                android:id="@+id/information"
+                android:layout_width="145dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="2dp"
+                android:paddingLeft="8dp"
+                android:layout_marginTop="25dp"
+                android:text="appcvmaroc@gmail.com"
+                android:textColor="@color/black"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/education_experionce_"
+                android:layout_width="246dp"
+                android:layout_height="450dp"
+                android:layout_marginBottom="0dp"
+                android:paddingLeft="20dp"
+                android:textSize="10sp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_download"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="92dp"
+        android:layout_marginEnd="96dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/nice_btn"
+        android:drawableLeft="@drawable/baseline_file_download_24"
+        android:gravity="center"
+        android:paddingLeft="20dp"
+        android:text="Download"
+        android:textColor="@color/white"
+        android:textSize="18dp" />
+</RelativeLayout>

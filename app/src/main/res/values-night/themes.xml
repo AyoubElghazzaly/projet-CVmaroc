@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CVmaroc" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimaryDark">@color/mygrey</item>
+        <item name="colorPrimary">@color/mygrey</item>
+        <item name="android:colorPrimary">@color/mygrey</item>
+        <item name="android:colorPrimaryDark">@color/mygrey</item>
+<!--        T-->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>

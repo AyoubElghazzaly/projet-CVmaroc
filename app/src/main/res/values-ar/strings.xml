@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="your_ads_he">
+إعلاناتك هنا
+</string>
+
+    <string name="contact_inf2">
+معلومات الاتصال\n
+</string>
+
+    <string name="work_experi">
+خبرات العمل\n
+</string>
+
+    <string name="education_d">
+تفاصيل التعليم\n
+</string>
+
+    <string name="other_infor">
+معلومات أخرى
+</string>
+
+    <string name="save_downlo">
+حفظ\nتحميل
+</string>
+
+    <string name="add_photo_o">
+إضافة صورة\n(اختياري)
+</string>
+
+    <string name="first_name">
+الاسم الأول\n
+</string>
+
+    <string name="some_id">
+*
+</string>
+
+    <string name="surname">
+اللقب\n
+</string>
+
+    <string name="email_addre">
+عنوان البريد الإلكتروني
+</string>
+
+    <string name="phone">
+رقم الهاتف
+</string>
+
+    <string name="adress">
+العنوان الرئيسي
+</string>
+
+    <string name="zip">
+رقم البطاقة الوطنية
+</string>
+
+    <string name="city">
+المدينة/البلدة
+</string>
+
+    <string name="other_detai">
+تفاصيل أخرى
+</string>
+
+    <string name="work_experi4">
+خبرات العمل
+</string>
+
+    <string name="education_text">
+تفاصيل التعليم
+</string>
+
+    <string name="employer">
+جهة العمل
+</string>
+
+    <string name="school">
+المدرسة
+</string>
+
+    <string name="start_date">
+تاريخ البدء
+</string>
+
+    <string name="job_title">
+المسمى الوظيفي
+</string>
+
+    <string name="location">
+الموقع
+</string>
+
+    <string name="description">
+الوصف
+</string>
+
+    <string name="describe_yo">
+صف واجباتك، المسؤوليات، وأي مهارات ذات صلة بتجربتك العملية
+</string>
+
+    <string name="create_new_">
+إنشاء سيرة ذاتية جديدة
+</string>
+
+    <string name="subject">
+الموضوع
+</string>
+
+    <string name="describe_educate">
+أضف وصفًا لدورتك لشرح ماهية الدورة لأصحاب العمل المحتملين.
+</string>
+
+    <string name="apk_name">
+درج الملاحة
+</string>
+
+    <string name="open_nav">
+فتح درج الملاحة
+</string>
+
+    <string name="clos_nav">
+إغلاق درج الملاحة
+</string>
+
+    <string name="other_infor1">
+معلومات أخرى
+</string>
+
+    <string name="about_me">
+عني
+</string>
+
+    <string name="language">
+اللغة
+</string>
+
+    <string name="level">
+المستوى
+</string>
+
+    <string name="company_nam">
+اسم الشركة
+</string>
+
+    <string name="phone_numbe">
+رقم الهاتف
+</string>
+
+    <string name="contact_per">
+شخص الاتصال
+</string>
+
+    <string name="email_addre2">
+عنوان البريد الإلكتروني
+</string>
+
+    <string name="enr">
+هل ترغب في حفظ التعديلات؟
+</string>
+    <string name="textintro1">يساهم هذا التطبيق في تلبية احتياجات المستخدمين من أجل إنشاء ملف تعريف السيرة الذاتيةبطريقة سهلة جدا </string>
+    <string name="welcom_to">مرحبا بكم في</string>
+    <string name="myservice">خدمة CV maroc</string>
+    <string name="bestservice">أفضل خدمة لإنشاء السيرة الذاتية</string>
+    <string name="demiabout">نحن نقدم لك خدمة السيرة الذاتية الشخصية ، و ذلك عن طريق إدخال المعلومات الخاصة بك وترك بقية لنا .</string>
+    <string name="started">دعونا نبدأ</string>
+    <string name="choose_a_template">اختر قالب</string>
+    <string name="personal_details">البيانات الشخصية</string>
+    <string name="educational_details">التفاصيل التعليمية</string>
+    <string name="experience">خبرة العمل</string>
+    <string name="others">معلومات اخرى</string>
+    <string name="view_cv">عرض CV</string>
+    <string name="Home">الرئيسية</string>
+    <string name="RemouvADS">الامتيازات</string>
+    <string name="share">إرسال</string>
+    <string name="about">"مرحبًا بك في CV maroc، أداة مخصصة لتبسيط عملية إنشاء السيرة الذاتية المهنية. تتيح تطبيقنا للمستخدمين إدخال معلوماتهم الشخصية والمهنية بسهولة، والتي يتم تنسيقها ديناميكيًا في قالب سيرة ذاتية مصقول. ببضع نقرات، يمكن للمستخدمين إنشاء نسخة PDF من سيرتهم الذاتية، جاهزة للمشاركة مع أصحاب العمل المحتملين.
+
+الميزات الرئيسية:
+- واجهة سهلة الاستخدام: تصميم بديهي وسهل التنقل لإنشاء ملف تعريف بسلاسة.
+- قوالب قابلة للتخصيص: اختر من بين مجموعة متنوعة من القوالب المهنية لتمثيل مهاراتك وخبراتك بأفضل طريقة.
+- إنشاء PDF فوري: أنشئ ملف PDF عالي الجودة لسيرتك الذاتية بنقرة واحدة.
+- معالجة بيانات آمنة: يتم تخزين معلوماتك الشخصية وإدارتها بشكل آمن، مما يضمن الخصوصية والحماية.
+
+نحن ملتزمون بتقديم أداة موثوقة وفعالة لمساعدتك في تحقيق أهدافك المهنية. سواء كنت محترفًا متمرسًا أو بدأت للتو في البحث عن وظيفة، CV maroc هنا لدعمك في كل خطوة.
+
+اتصل بنا:
+للتعليقات أو الدعم أو أي استفسارات، يرجى الاتصال بنا على <i>ayoubelghazzaly@gmail.com</i>.
+
+شكرًا لاختيارك CV maroc. نتمنى لك النجاح في مساعيك المهنية."</string>
+    <string name="close">إغلاق</string>
+    <string name="aboutnv">حول</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الانجليزة</string>
+    <string name="french">الفرنسية</string>
+    <string name="select_langue">حدد اللغة</string>
+
+
+</resources>

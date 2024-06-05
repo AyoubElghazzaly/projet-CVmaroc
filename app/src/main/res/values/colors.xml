@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#1A2C97</color>
+    <color name="grey">#807D7D</color>
+    <color name="teal_200">#64FFDA</color>
+    <color name="lavender">#8692f7</color>
+    <color name="colorPrimary">#B0B9C1</color>
+    <color name="colorPrimaryDark">#493da6</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="success">#00b894</color>
+    <color name="yllew">#EEFF41</color>
+    <color name="primaryGreen">#008577</color>
+    <color name="primaryGreenDark">#00574B</color>
+    <color name="bgLightGray">#80dfe6e9</color>
+    <color name="mygrey">#B0B9C1</color>
+
+
+</resources>

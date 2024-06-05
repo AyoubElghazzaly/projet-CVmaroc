@@ -1,0 +1,165 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">CV Maroc</string>
+    <string name="book_now" translatable="false"></string>
+    <string name="cr_ation_de" translatable="false">
+           Creation de CV
+        </string>
+    <string name="your_ads_he" translatable="false">
+your ads here
+</string>
+
+    <string name="contact_inf2" tools:ignore="MissingTranslation" >
+Contact \nInformation
+</string>
+    <string name="work_experi" tools:ignore="MissingTranslation">
+Work \nExperiences\n
+</string>
+    <string name="education_d" translatable="false">
+Education\nDetails
+</string>
+    <string name="other_infor" tools:ignore="MissingTranslation">
+Other Information
+</string>
+    <string name="save_downlo" tools:ignore="MissingTranslation">
+Save  \nDownload
+</string>
+    <string name="add_photo_o" tools:ignore="MissingTranslation">
+add photo \n(optional)
+</string>
+    <string name="first_name" tools:ignore="MissingTranslation">
+First Name \n
+</string>
+    <string name="some_id" tools:ignore="MissingTranslation">
+*
+</string>
+    <string name="surname" tools:ignore="MissingTranslation">
+Surname \n
+</string>
+    <string name="email_addre" tools:ignore="MissingTranslation">
+Email Address
+</string>
+    <string name="phone" tools:ignore="MissingTranslation">
+Phone Nombre
+</string>
+    <string name="adress" tools:ignore="MissingTranslation">
+Home   Adress
+</string>
+    <string name="zip" tools:ignore="MissingTranslation">
+National Card ID
+</string>
+    <string name="city" tools:ignore="MissingTranslation">
+City/Town
+</string>
+    <string name="other_detai" tools:ignore="MissingTranslation">
+other details
+</string>
+    <string name="work_experi4" translatable="false">
+Work Experiences
+</string>
+    <string name="education_text" translatable="false">
+Education Details
+    </string>
+    <string name="employer" translatable="false">
+Employer
+</string>
+    <string name="school" translatable="false">
+School
+</string>
+    <string name="googlepay_button_content_description" translatable="false">Google Pay</string>
+    <string name="start_date" translatable="false">
+Start Date
+</string>
+    <string name="job_title" translatable="false">
+Job Title
+</string>
+    <string name="location" translatable="false">
+Location
+</string>
+    <string name="description" translatable="false">
+Description
+</string>
+    <string name="describe_yo" translatable="false">
+Describe your tasks, responsibilities and any competencies related to this work experience
+</string>
+    <string name="create_new_" translatable="false">
+Create new CV
+</string>
+    <string name="subject" translatable="false">
+Subject
+    </string>
+    <string name="describe_educate" translatable="false">
+Add a description for your course to explain exactly what it entailed to potential employers.</string>
+    <string name="apk_name" translatable="false"> Navigatin Drawer</string>
+    <string name="open_nav" translatable="false">Open Navigation Drawer</string>
+    <string name="clos_nav" translatable="false">Close Navigation Drawer</string>
+    <string name="other_infor1" translatable="false">
+Other Information
+</string>
+    <string name="about_me" translatable="false">
+About me
+</string>
+    <string name="language" translatable="false">
+Langue
+</string>
+    <string name="level">
+Level
+</string>
+
+    <string name="company_nam">
+Company Name
+</string>
+    <string name="phone_numbe">
+Phone Number
+</string>
+    <string name="contact_per">
+Contact Person
+</string>
+    <string name="email_addre2">
+Email Address
+</string>
+    <string name="enr">
+Voulez-vous enregistrer les \nmodifications ?
+</string>
+    <string name="Home">Home</string>
+    <string name="RemouvADS">Remouv ADS</string>
+    <string name="share">Share</string>
+    <string name="about">"Welcome to CV maroc, a dedicated tool designed to simplify the process of creating professional resumes. Our application allows users to effortlessly input their personal and professional information, which is then dynamically formatted into a polished CV template. With just a few taps, users can generate a PDF version of their resume, ready to share with potential employers.
+
+Key Features:
+- User-Friendly Interface: Intuitive and easy-to-navigate design for seamless profile creation.
+- Customizable Templates: Choose from a variety of professional templates to best represent your skills and experience.
+- Instant PDF Generation: Create a high-quality PDF of your resume with a single click.
+- Secure Data Handling: Your personal information is securely stored and managed, ensuring privacy and protection.
+
+We are committed to providing a reliable and efficient tool to help you achieve your career goals. Whether you are a seasoned professional or just starting your job search, CV maroc is here to support you every step of the way.
+
+Contact Us:
+For feedback, support, or any inquiries, please contact us at <i>ayoubelghazzaly@gmail.com</i>.
+
+Thank you for choosing CV maroc . We wish you success in your career endeavors."</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="textintro1">This application contributes to meet the needs of users in order to create a Cv profile and so easy</string>
+    <string name="welcom_to">Welcom to</string>
+    <string name="myservice">Service CV.maroc</string>
+    <string name="bestservice">Best Service To Create Cv</string>
+    <string name="demiabout">"We offer you a Cv profile service , so a simple effort from you and is to
+enter your  information and
+leave the rest us ."</string>
+    <string name="started">Let\' s get Started</string>
+    <string name="choose_a_template">Choose a Template</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="educational_details">Educational Details</string>
+    <string name="experience">Experience</string>
+    <string name="others">Others</string>
+    <string name="view_cv">View CV</string>
+    <string name="close">Close</string>
+    <string name="aboutnv">About</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="select_langue">Select Language</string>
+
+
+</resources>

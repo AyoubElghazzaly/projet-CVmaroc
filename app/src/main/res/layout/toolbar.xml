@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/toolbar"
+    android:gravity="center_horizontal">
+
+    <Button
+        android:id="@+id/menu"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/drawer_button" />
+
+    <TextView
+        style="@style/name_app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="30dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/roboto"
+        android:text="CV Maroc"
+        android:textColor="@color/white"
+        android:textSize="40sp" />
+
+
+</LinearLayout>
